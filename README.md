@@ -66,7 +66,7 @@
  </ul>
  <div class="work__links">
                 </a>
-                <a href="[https://github.com/nisarhassan12/portfolio](https://github.com/Brillantina/ChallengY1)" title="View Source Code" target="_blank">
+                <a href="[https://github.com/Brillantina/ChallengY1]" title="View Source Code" target="_blank">
                 </a>
               </div>
             </div>
@@ -78,9 +78,8 @@
             <div class="work__text">
               <h3>Land of Fires</h3>
               <p>
-   It’s other videogame i coded based on team research about Videogame and ADHD people, linked to stress relief, attention problems and engaging.
-It’s a bottom down game which aims to exploit the mechanisms grafted from mixing adventure and puzzle games.
-The Fool, main character, runs trough a joystick controller in various maps punctuated by levels featuring by swirls that change your position and shoot enemies by a button.
+It’s a no-ending videogame with a robot fairy that flows in her word shooting enemies, collecting components and recharging life by others.
+Try to beat your own record!
               </p>
               <ul class="work__list">
                 <li>SpriteKit</li>
@@ -96,7 +95,7 @@ The Fool, main character, runs trough a joystick controller in various maps punc
               <div class="work__links">
                 </a>
                 <a href="#">
-              <a href="[[https://github.com/nisarhassan12/portfolio](https://github.com/Brillantina/ChallengY1)](https://github.com/Brillantina/TheLandOfFire)" title="View Source Code" target="_blank">
+              <a href="[https://github.com/Brillantina/TheLandOfFire]" title="View Source Code" target="_blank">
                   <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
                 </a>
               </div>
@@ -146,17 +145,11 @@ The Fool, main character, runs trough a joystick controller in various maps punc
           <div class="about__text">
             <!-- Replace the below paragraph with info about yourself -->
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-              nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-              in vel, ex quam quidem quos mollitia labore aut sunt eius
-              ratione molestiae fuga veniam facere similique voluptate.
+  Ios developer 
+              Italy located
             </p>
-            <!-- Provide a link to your resume -->
-            <a href="#" class="btn">My Resume</a>
           </div>
    <div class="about__photo-container">
-            <!-- Add a nice photo of yourself -->
-            <img class="about__photo" src=".me.HEIC" alt="" />
           </div>
         </div>
       </div>
