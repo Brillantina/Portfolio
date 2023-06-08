@@ -26,7 +26,6 @@
       <nav class="nav" role="navigation">
         <ul class="nav__items">
           <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
-          <li class="nav__item"><a href="#clients" class="nav__link">Clients</a></li>
           <li class="nav__item">
             <a href="#about" class="nav__link">About</a>
           </li>
@@ -54,27 +53,20 @@
       <div class="row">
         <h2>My Work</h2>
         <div class="work__boxes">
-
-          <!-- Each div with the work__box class is a project. -->
-
-          <div class="work__box">
+ <div class="work__box">
             <div class="work__text">
               <h3>ChallengY</h3>
               <p>
                 My first project in swift: basically an app that through a simple button generate random challenge to encourage people to challenge themself in order to develop their social capability.
-
-              </p>
+ </p>
               <ul class="work__list">
                 <li>SwiftUI</li>
                 <li>CoreData</li>
                 <li>foundation</li>
-              
-              </ul>
-
-              <div class="work__links">
+ </ul>
+ <div class="work__links">
                 </a>
                 <a href="[https://github.com/nisarhassan12/portfolio](https://github.com/Brillantina/ChallengY1)" title="View Source Code" target="_blank">
-                  <img src="./images/github.svg" class="work__code" alt="GitHub">
                 </a>
               </div>
             </div>
@@ -82,22 +74,13 @@
               <img src="./images/project-1.png" class="work__image" alt="Project 1" />
             </div>
           </div>
-
-          <div class="work__box">
+<div class="work__box">
             <div class="work__text">
               <h3>Land of Fires</h3>
               <p>
-                It’s other videogame i coded based on team research about Videogame and ADHD people, linked to stress relief, attention problems and engaging.
-
+   It’s other videogame i coded based on team research about Videogame and ADHD people, linked to stress relief, attention problems and engaging.
 It’s a bottom down game which aims to exploit the mechanisms grafted from mixing adventure and puzzle games.
-
 The Fool, main character, runs trough a joystick controller in various maps punctuated by levels featuring by swirls that change your position and shoot enemies by a button.
-
-Framework used:
-
-Framework used: SpriteKit, CoreData, foundation, SwiftUI, AVFundation, GameController, AVFAudio, UserNotification, UIKit, GamePlayKit
-
-Decoding and encoding JSon file.
               </p>
               <ul class="work__list">
                 <li>SpriteKit</li>
@@ -109,10 +92,7 @@ Decoding and encoding JSon file.
                 <li>UserNotification</li>
                 <li>UIKit</li>
                 <li>GamePlayKit</li>
-                
-                
               </ul>
-
               <div class="work__links">
                 </a>
                 <a href="#">
@@ -125,23 +105,13 @@ Decoding and encoding JSon file.
               <img src="./images/project-2.png" class="work__image" alt="Project 1" />
             </div>
           </div>
-
-          <div class="work__box">
+<div class="work__box">
             <div class="work__text">
               <h3>Tarot</h3>
               <p>
-               It’s other videogame i coded based on team research about Videogame and ADHD people, linked to stress relief, attention problems and engaging.
-
-It’s a bottom down game which aims to exploit the mechanisms grafted from mixing adventure and puzzle games.
-
+               It’s other videogame i coded based on team research about Videogame and ADHD people, linked to stress relief, attention problems and engaging. It’s a bottom down game which aims to exploit the mechanisms grafted from mixing adventure and puzzle games.
 The Fool, main character, runs trough a joystick controller in various maps punctuated by levels featuring by swirls that change your position and shoot enemies by a button.
-
-Framework used:
-
-Framework used: SpriteKit, CoreData, foundation, SwiftUI, AVFundation, GameController, AVFAudio, UserNotification, UIKit, GamePlayKit
-
-Decoding and encoding JSon file
-              </p>
+ </p>
               <ul class="work__list">
                 <li>SpriteKit</li>
                 <li>CoreData</li>
@@ -151,11 +121,9 @@ Decoding and encoding JSon file
                 <li>GameController</li>
                 <li>AVFAudio</li>
                  <li>UserNotification</li>
-                 <li>GamePlayKit</li>
-                
+                 <li>GamePlayKit</li> 
               </ul>
-
-              <div class="work__links">
+ <div class="work__links">
                 <a href="#" class="link__text">
                   Visit Site <span>&rarr;</span>
                 </a>
@@ -171,12 +139,7 @@ Decoding and encoding JSon file
         </div>
       </div>
     </section>
-
-
-
-    <!-- ***** About ***** -->
-
-    <section class="about" id="about">
+<section class="about" id="about">
       <div class="row">
         <h2>About Me</h2>
         <div class="about__content">
@@ -191,8 +154,7 @@ Decoding and encoding JSon file
             <!-- Provide a link to your resume -->
             <a href="#" class="btn">My Resume</a>
           </div>
-
-          <div class="about__photo-container">
+   <div class="about__photo-container">
             <!-- Add a nice photo of yourself -->
             <img class="about__photo" src=".me.HEIC" alt="" />
           </div>
@@ -200,10 +162,7 @@ Decoding and encoding JSon file
       </div>
     </section>
   </main>
-
-  <!-- ***** Contact ***** -->
-
-  <section class="contact" id="contact">
+<section class="contact" id="contact">
     <div class="row">
       <h2>Get in Touch</h2>
       <div class="contact__info">
