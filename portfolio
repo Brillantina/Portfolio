@@ -9,3 +9,27 @@
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
+</div>
+
+<div class="work__box">
+    <div class="work__text">
+    <h3>Hard skills:</h3>
+    <ul class="work__list">
+        <li>SwiftUi</li>
+        <li>UiKit</li>
+        <li>C</li>
+        <li>C++</li>
+    </ul>
+<div>
+<section class="contact" id="contact">
+      <div class="row">
+        <h2>Get in Touch</h2>
+        <div class="contact__info">
+          <p>
+I am a skilled and motivated computer engineering with a strong passion for designing and developing innovative technology solutions. I have a solid foundation in computer engineering principles and I am currently seeking a challenging position where I can apply my technical expertise to contribute to the advancement of cutting-edge technologies and drive transformative change. I am committed to continuous learning. I thrive in dynamic, fast-paced environments and always strive to exceed expectations.
+          </p>
+          <!-- Replace the email with yours -->
+          <a href="mailto:you@example.com" class="btn">rita.marrano.98@gmail.com</a>
+        </div>
+      </div>
+</section>
